@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Clark 👋
 
-<!--
-**cdinnison/cdinnison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently designing & building [Replenysh](https://replenysh.com) 🔁 to help brands & communities build circularity. 
 
-Here are some ideas to get you started:
+Here's why I'm working on this problem: [🧵 What circularity is and why does it matter?](https://twitter.com/ClarkDinnison/status/1492245894279749632?s=20&t=n8eI4gmkKVz3w_Kc6Mypng)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+A few side projects I've built:
+- [Noon Pacific](https://noonpacific.com)· the soundtrack to your week
+- [Roy](https://www.useroy.com/) · a tiny & delightful color picker for designers
+- `Acquired` [Daily UI](https://www.dailyui.co/) · Become a better designer in 100 days 
+
+How to reach me:
+- [Email](mailto:cdinnison@gmail.com)
+- [Personal Website](https://clarkdinnison.com)
+- [Twitter](https://twitter.com/clarkdinnison)
