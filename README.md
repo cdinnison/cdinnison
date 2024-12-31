@@ -1,5 +1,5 @@
 Current:
-- Designing & building [Replenysh](https://replenysh.com) to recover the $1 trillion worth of materials landfilled globally each year.
+- [Replenysh](https://replenysh.com) · infrastructure to recover the $1 trillion worth of materials landfilled globally each year
 
 Side Projects:
 - [Scout](https://apps.apple.com/us/app/scout-car-identifier/id6472626789) · shazam for cars
