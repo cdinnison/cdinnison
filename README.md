@@ -1,7 +1,12 @@
 Current:
-- [Replenysh](https://replenysh.com) · infrastructure to recover the $1 trillion worth of materials landfilled globally each year
+- [Replenysh](https://replenysh.com) · cicular supply chain infrastructure
 
 Side Projects:
+- [33rpm](https://33rpm.noonpacific.com/) · a vinyl screensaver for your mac
+- [Confetti](https://getconfetti.xyz) · personalized birthday invite videos
+- [Keeps](https://www.sendkeeps.com/) · send a postcard that plays your voice
+- [Save It For Later](https://itforlater.com/) · save links and ideas — without another app
+- [ASCII Tee](https://www.asciitee.com/) · create custom ascii art t-shirts from your terminal
 - [Good Enough](https://github.com/cdinnison/good-enough) · a minimal workout tracker
 - [Goal Reminder](https://www.goalreminder.xyz/) · turn goals into habits with daily SMS reminders
 - [Scout](https://apps.apple.com/us/app/scout-car-identifier/id6472626789) · shazam for cars
