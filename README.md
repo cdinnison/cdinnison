@@ -1,7 +1,7 @@
-Current:
+Days:
 - [Replenysh](https://replenysh.com) · circular supply chain infrastructure
 
-Side Projects:
+Nights:
 - [Ray](https://rayfinance.app) · an open-source AI financial advisor
 - [33rpm](https://33rpm.noonpacific.com/) · a vinyl screensaver for your mac
 - [Confetti](https://getconfetti.xyz) · personalized birthday invite videos
