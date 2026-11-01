@@ -3,7 +3,7 @@ Days:
 - [SimpleDock](https://simpledock.ai) · modern dock appointment scheduling
 
 Nights:
-- [Noon Pacific](https://noonpacific.com)· the soundtrack to your week
+- [Noon Pacific](https://noonpacific.com) · the soundtrack to your week
 - [Roy](https://www.useroy.com/) · a tiny & delightful color picker for designers
 - [Hat Studio](https://hatstudio.app/) · the easiest way to make one custom hat
 
