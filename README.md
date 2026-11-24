@@ -3,7 +3,8 @@ Days:
 - [SimpleDock](https://simpledock.ai) · modern dock appointment scheduling
 
 Nights:
-- [Noon Pacific](https://noonpacific.com) · the soundtrack to your week
+- [Noon Pacific](https://noonpacific.com) · music, places, and things worth your time
+
 
 How to reach me:
 - [Email](mailto:cdinnison@gmail.com)
