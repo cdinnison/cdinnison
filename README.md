@@ -1,5 +1,5 @@
 Days:
-- [Replenysh](https://replenysh.com) · the market for AI hardware & commodities
+- [Replenysh](https://replenysh.com) · the secondary market for AI hardware & commodities
 - [SimpleDock](https://simpledock.ai) · modern dock appointment scheduling
 
 Nights:
